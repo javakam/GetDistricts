@@ -35,7 +35,3 @@ http://datavmap-public.oss-cn-hangzhou.aliyuncs.com/areas/csv/340000_city.json
 http://datavmap-public.oss-cn-hangzhou.aliyuncs.com/areas/csv/341700_district.json
 
 > 参考: https://blog.csdn.net/jimolangyaleng/article/details/85596748
-
-#### HttpClient 用法
-
-<https://blog.csdn.net/WYP123456L/article/details/121989884>
